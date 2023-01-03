@@ -166,4 +166,4 @@ def write_csv(cars_data):
 if __name__ == "__main__":
     cars_data = read_csv()
     write_csv(cars_data)
-    
+    input()
